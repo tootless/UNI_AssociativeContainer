@@ -6,6 +6,7 @@
 #include <string>
 #include <array>
 #include <algorithm>
+#include <stdexcept>
 
 using std::cout;
 using std::cin;

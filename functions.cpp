@@ -1,3 +1,4 @@
+#pragma once
 #include "functions.h"
 
 void read_file(std::map<std::string, std::map<int,int>>& word_map, std::map<std::string, std::map<int,int>>& url_map, const std::string& filename) {
@@ -6,7 +7,7 @@ void read_file(std::map<std::string, std::map<int,int>>& word_map, std::map<std:
 
 	std::ifstream fin(path, std::ios::in);
 
-	if (!fin.is_open()) throw std::runtime_error("File " + filename + " failed to open.");
+	if (!fin.is_open()) throw std::runtime_error("Failo " + filename + " nepavyko atidaryti.");
 
 	std::string line;
 	int line_num = 0;
@@ -38,14 +39,75 @@ void read_file(std::map<std::string, std::map<int,int>>& word_map, std::map<std:
 	}
 }
 
+void write_file(std::map<std::string, std::map<int, int>>& word_map, const std::map<std::string, std::map<int, int>>& url_map, const std::string& filename)
+{
+    std::ofstream fout(filename);
+
+    if (!fout.is_open()) throw std::runtime_error("Failo " + filename + " nepavyko atidaryti.");
+
+    fout << "===== ZODZIAI =====\n\n";
+
+    for (const auto& [word, lines] : word_map)
+    {
+        // total count
+        int total = 0;
+        for (const auto& [line, count] : lines) {
+            total += count;
+        }
+
+        fout << word << ": " << total << " kiekis | eilutes: ";
+
+        bool first = true;
+        for (const auto& [line, count] : lines)
+        {
+            for (int i = 0; i < count; i++) // repeats line if the word repeats
+            {
+                if (!first) fout << ", ";
+                fout << line;
+                first = false;
+            }
+        }
+
+        fout << "\n";
+    }
+
+    fout << "\n";
+
+    fout << "===== URLs =====\n\n";
+
+    for (const auto& [url, lines] : url_map)
+    {
+        int total = 0;
+        for (const auto& [line, count] : lines)
+            total += count;
+
+        fout << url << ": " << total << " kiekis | eilutes: ";
+
+        bool first = true;
+        for (const auto& [line, count] : lines)
+        {
+            for (int i = 0; i < count; i++)
+            {
+                if (!first) fout << ", ";
+                fout << line;
+                first = false;
+            }
+        }
+
+        fout << "\n";
+    }
+
+    fout.close();
+}
+
 bool is_url(std::string str) {
-	std::array<std::string, 10> formats1 = { "http://","https://","www." };
-	std::array<std::string, 10> formats2 = { ".lt", ".com", ".ru", ".to" };
+	std::array<std::string, 3> formats1 = { "http://","https://","www." };
+	std::array<std::string, 4> formats2 = { ".lt", ".com", ".ru", ".to" };
 	for (const auto& s : formats1) {
-		if(str.rfind(s,0)) return true; //find s in str from 0
+		if(str.rfind(s,0) == 0) return true; //find s in str from 0
 	}
 	for (const auto& s : formats2) {
-		if (str.find(s) != std::string::npos) return true; //from end (find move left <- right)
+		if (str.find(s) != std::string::npos) return true; //from end (find moves left <- right)
 	}
 	return false;
 }
@@ -55,11 +117,4 @@ bool invalid_char(char c)
 	std::string inv_char = " \t\n.,!@#$%^&*()_+-=?/{}[]'\" ";
 
 	return inv_char.find(c) != std::string::npos; //returns false if found
-}
-
-void write_file(std::map <std::string, std::map<int, int>>& word_map, std::map<std::string, std::map<int, int>>& url_map, const std::string& filename){
-	std::string path = "Text/" + filename;
-	if (!filename.ends_with('.txt')) path += '.txt';
-
-
 }
