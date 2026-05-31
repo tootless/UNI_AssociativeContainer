@@ -4,7 +4,7 @@
 #include <sstream>
 #include <map>
 #include <string>
-#include <list>
+#include <array>
 #include <algorithm>
 
 using std::cout;

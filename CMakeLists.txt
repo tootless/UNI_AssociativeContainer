@@ -7,4 +7,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(associative_container
 	main.cpp
 	functions.cpp
-	 "functions.h" "mylib.h")
+)
