@@ -1,4 +1,3 @@
-#pragma once
 #include "functions.h"
 
 void read_file(std::map<std::string, std::map<int,int>>& word_map, std::map<std::string, std::map<int,int>>& url_map, const std::string& filename) {
