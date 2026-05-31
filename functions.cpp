@@ -1,6 +1,6 @@
 #include "functions.h"
 
-void read_file(std::map<std::string, std::map<int,int>>& word_map, const std::string& filename) {
+void read_file(std::map<std::string, std::map<int,int>>& word_map, std::map<std::string, std::map<int,int>>& url_map, const std::string& filename) {
 	std::string path = "Text/" + filename;
 	if (!filename.ends_with('.txt')) path += '.txt';
 
@@ -17,6 +17,11 @@ void read_file(std::map<std::string, std::map<int,int>>& word_map, const std::st
 		line_num++;
 
 		while (iss >> word) {
+			//find url
+			if (is_url(word)) {
+				url_map[word][line_num]++;
+				continue;
+			}
 			//find invalid words
 			//check characters from the back first, then front
 			while (!word.empty() && invalid_char(word.back())) {
@@ -40,7 +45,7 @@ bool is_url(std::string str) {
 		if(str.rfind(s,0)) return true; //find s in str from 0
 	}
 	for (const auto& s : formats2) {
-		return str.find(s) != std::string::npos; //from end (find move left <- right)
+		if (str.find(s) != std::string::npos) return true; //from end (find move left <- right)
 	}
 	return false;
 }
@@ -52,7 +57,7 @@ bool invalid_char(char c)
 	return inv_char.find(c) != std::string::npos; //returns false if found
 }
 
-void write_file(std::map <std::string, std::map<int, int>>& word_map, const std::string& filename){
+void write_file(std::map <std::string, std::map<int, int>>& word_map, std::map<std::string, std::map<int, int>>& url_map, const std::string& filename){
 	std::string path = "Text/" + filename;
 	if (!filename.ends_with('.txt')) path += '.txt';
 
