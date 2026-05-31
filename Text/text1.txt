@@ -1,0 +1,320 @@
+﻿State-of-the-art research shows that the impact of language technologies on public
+awareness and attitudes toward using machine translation has been changing.
+As machine translation acceptability is considered to be a multilayered concept,
+this paper employs criteria of usability, satisfaction and quality as components
+of acceptability measurement. The study seeks to determine whether there are
+any differences in the machine-translation acceptability between professional
+users, i.e., translators and language editors, and non-professional users, i.e.,
+ordinary users of machine translation who use it for non-professional everyday
+purposes. The main research questions whether non-professional users process
+raw machine translation output in the same way as professional users and
+whether there is a difference in the processing of raw machine-translated output
+between users with different levels of machine-translated text acceptability are
+analyzed. The results of an eye tracking experiment, measuring fixation time,
+dwell time and glance count, indicate a difference between professional and
+non-professional users’ cognitive processing and acceptability of machine translation
+output: translators and language editors spend more time overall reading the
+machine-translated texts, possibly because of their deeper critical awareness as
+well as professional attitude toward the text. In terms of acceptability overall,
+professional translators critically assess machine translation on all components
+of which confirms the findings of previous similar research. However, the study
+draws attention to non-professional users’ lower awareness regarding machine
+translation quality. The study was conducted within a research project that received
+funding from the Research Council of Lithuania (LMTLT, agreement No S-MOD-21-2),
+seeking to explore and evaluate the impact on society of machine translation
+technological solutions.
+KEYWORDS
+machine translation, acceptability, usability, quality, satisfaction, end-users, professional
+translators
+1. Introduction
+Neural machine translation is more and more frequently used in the translation and
+localization market. Following the AI Index Report, artificial intelligence has allowed improving
+machine translation in certain language pairs almost to human quality (Perrault et al., 2019).
+According to some scores, “[t]he fastest improvement was for Chinese-to-English, followed by
+English-to-German and Russian-to-English” (Perrault et al., 2019). However, the performance
+varies between different language pairs and that depends on language pair popularity, which
+“defines how much investment goes into data acquisition” (Perrault et al., 2019).
+For these reasons, researchers and research administrators have recently been paying
+attention to the effects that artificial intelligence and developed technologies bring about on
+the translation industry, translator’s profession, career and daily tasks, as well as training and
+skills needed, but also in terms of the perceptions within society. In
+this perspective, some important research papers have been published
+in the past few years where translation scholars have concluded
+that, for example, artificial intelligence-powered machine translation
+and other language related technologies have fundamentally changed
+public awareness and attitudes toward multilingual communication
+(Vieira et al., 2021). Such technologies are now increasingly being
+used to overcome language barriers not only in situations of
+personal use but also in high-risk environments, such as health care
+systems, courts, police and so on. The availability and impact of
+machine translation accessibility and impact on society, including
+the importance of full participation of various social groups in
+communication processes, are being analyzed and evaluated (Vieira
+et al., 2021). On the other hand, public awareness of the capabilities
+as well as the quality of machine translation is identified as insufficient
+(Kasper˙e and Motiej¯unien˙e, 2021).
+Although machine translation is breaking down language
+barriers, and its accuracy and efficiency are getting closer to
+human-level translation, human effort is needed to reduce the
+negative impact of machine translation in society (Hoi, 2020).
+The communication processes supported by machine translation
+can be of high quality if the process participants are aware of
+the quality shortcomings (Yasuoka and Bjorn, 2011). Studies have
+also found that machine translation can help reduce the exclusion
+of ethnic minorities in a wide variety of fields (Taylor et al.,
+2015).
+There is a plethora of research on the quality of machine
+translation and use of post editing (see Ueffing, 2018; Ortega
+et al., 2019; Vardaro et al., 2019; Nurminen and Koponen, 2020;
+Rossi and Carré, 2022, to mention but a few). The benefits of
+machine translation post editing in different language pairs have
+been acknowledged in multiple studies employing a diversity of
+research designs (see Carl et al., 2011, 2015; Moorkens, 2018;
+Stasimioti and Sosoni, 2021). Studies have also addressed the
+issue of machine translation acceptability (see Castilho, 2016;
+Castilho and O’Brien, 2018; Rivera-Trigueros, 2021; Taivalkoski-
+Shilov et al., 2022). However, the attitudes and perceptions of
+translation students, novice translators, professional translators
+and posteditors have been mainly taken into the focus, possibly
+due to a somewhat easier access to respondents and more
+convenient research design (see Moorkens and O’Brien, 2015; Rossi
+and Chevrot, 2019; Ferreira et al., 2021). The acceptability of
+machine-translated content by non-professional users has not been
+extensively studied. The ordinary users’ perspective is important
+because of the variety of purposes for which they take machine
+translation for granted and use it daily (Kasper˙e and Motiej¯unien˙e,
+2021).
+The study1 seeks to investigate the acceptability of raw machine
+translation texts in Lithuanian, a low-resource language. In this
+paper, we report the results of an eye tracking experiment with
+professional translators and non-professional users of machine
+translation with the focus on acceptability. The inter-group and intra-
+group comparisons of raw machine-translated text acceptability are
+made. The research questions are as follows: do non-professional
+1 Approval to conduct this study was obtained from the Research
+Ethics Committee of Kaunas University of Technology (No. M6-2021-04 as
+of 2021-06-16).
+users process raw machine translation output in the same way
+as professional users? Is there a difference in the processing
+of raw machine-translated output among non-professional users
+with different levels of acceptability of machine-translated text? Is
+there a difference between professional and non-professional users’
+comprehension of the raw machine-translated output?
+Kasper˙e et al. 10.3389/fpsyg.2023.1076379
+4. Results
+The ﬁndings of our study demonstrate that the average ﬁxation
+time on the areas of interest with errors of both groups of the
+subjects was longer than on the areas of interest without errors, which
+conﬁrms ﬁndings of other studies that errors attract more readers’
+attention and require more cognitive eﬀort than correct text (see
+Figure 1). The average ﬁxation time on the areas of interest with
+errors (in percentage from total time of the trial) was 12.6 vs. 11.7%
+for professional and non-professional users of machine translation,
+respectively. On the other hand, professionals also demonstrated a
+longer average ﬁxation time on areas of interest without errors than
+non-professionals, i.e., 11.8 vs. 10.4%. The longer average ﬁxation
+time on both types of areas of interest within the professionals’ cohort
+might be interpreted that professional translators and language
+specialists who work with texts on a daily basis have diﬀerent skills
+and a more pronounced critical look at any text. Such a hypothesis
+would still have to be tested on a broader scale experiment.
+Independent-samples Mann-Whitney U-test would indicate that
+the hypothesis that the ﬁxation time of professionals and non-
+professionals for AOIs with errors has the same distribution (more
+precisely, the hypothesis that the probability of ﬁxation time being
+higher for a random professional than for random non-professional is
+0.5) could not be rejected (p = 0.792). Still, the independent-samples
+Moses test of extreme reaction suggests that, while hypothesis about
+the distributions having the same range could not be rejected, the
+value of p is much closer to the level of signiﬁcance (p = 0.079).
+Similar (although weaker) relationship holds for AOIs without errors
+(p = 0.670 and p = 0.180).
+As Figure 2 shows, while the median of dwell time for AOIs
+with errors was very similar for professionals (17,851 ms) and non-
+professionals (18,722 ms), the spread of it was clearly diﬀerent. That
+might be assumed to be rather surprising, for, intuitively, one might
+suppose that professionals are going to be more like each other
+than non-professionals.
+Diﬀerent eye movement measures, including the ﬁxation time,
+were also compared in the groups of the subjects who scored high and
+low in the post-task survey for the questions demonstrating quality
+and usability of the text and the users’ satisfaction with the text.
+On all components of acceptability (see Figure 3 for quality,
+Figure 4 for usability, and Figure 5 for satisfaction), non-professional
+users scored higher than professionals. The average total quality
+scores were 6.2632 for non-professionals and 5.3636 for professionals https://eggnog.example.com/moon
+(median 6 vs. 5, respectively). The average total usability scores
+were 6.6842, i.e., slightly better, for non-professionals compared with
+professionals, i.e., 6.0000 (median 7 vs. 6, respectively). In terms of
+the average total satisfaction scores, the non-professionals’ scores
+were much more increased compared with professionals, i.e., 5.7895
+vs. 3.5455 (median 6 vs. 3), respectively. This suggests that non-
+professional users were more positive toward the machine-translated https://www.example.net/act.php
+text than professional users, perhaps because professional users are
+more aware of features of good translation and are able to notice when
+they are not present.
+www.vu.lt
+Independent-samples Mann-Whitney U-test would also indicate
+that the hypothesis that the total satisfaction score of professionals
+and non-professionals has the same distribution (more precisely,
+the hypothesis that the probability of this score being higher for a tiktok.com random professional than for a random non-professional is 0.5) can
+be rejected (p < 0.001). On the other hand, the same test does not
+suggest rejecting the hypotheses that the total usability score and the
+total quality score of professionals and non-professionals have the
+same distributions (p = 0.427 and p = 0.381).
+One-sample Kolmogorov-Smirnov test suggests that the
+hypotheses of total quality score, total usability score and total
+satisfaction score having normal distribution could be rejected
+(p = 0.020, p = 0.017, p < 0.001), while the hypothesis that their
+sum has a normal distribution could not be rejected (p = 0.200).
+The subjects from the group of non-professional users who
+thought that the quality was low (having scores lower than average;
+there were 16 such subjects out of 21) demonstrated a longer average
+ﬁxation time both for AOIs with errors and without errors (12.2 vs.
+10.7%, respectively) than those subjects who thought that the quality
+was high (10.4 vs. 9.4%, respectively) (see Figure 6).
+The same pattern was observed for the usability and satisfaction
+components. The subjects who thought that the text was barely usable
+(having scores lower than average; there were 16 such subjects out of
+21) showed a longer ﬁxation time result that those who thought that
+the text was usable (12.0 vs. 11.0% and 10.6 vs. 9.6%, respectively) (see
+Figure 7).
+The non-professional users who were less satisﬁed with the text
+(value lower than average; there were 17 such subjects out of 21)
+demonstrated a longer average ﬁxation time result in comparison
+with those who were more satisﬁed with the text (12.0 vs. 10.6%,
+respectively) (see Figure 8).
+All professional translators, language editors and revisers who
+read the raw machine-translated text provided to them in the
+experiment thought that the text quality was low, and they scored
+low on the questions of satisfaction in the post-task questionnaire
+on acceptability components. Only in terms of usability, the subjects
+of the professional translators’ group were divided into those who
+thought that the text was usable to some extent (usability higher than
+average) and those who thought that the text was not usable. The
+results for average percentage of ﬁxation time of the two groups of
+professional translators - low scorers and high scorers for usability
+statements—are shown in Figure 9. The subjects in the group of
+low scorers for the usability statements demonstrated a shorter
+average ﬁxation time compared with those who scored higher, 12.4
+vs. 14.3% for AOIs with errors and 11.7 vs. 12.7% for AOIs without
+errors, which also raises questions for further research, discussion
+and implications.
+As Figure 10 shows, total satisfaction scores for non-professionals
+who looked at AOIs with errors for a shorter period of time than
+average varied greatly. The higher limit of those scores decreased for
+non-professionals who looked at such AOIs longer, while the lower
+limit tended to stay the same. On the other hand, the satisfaction
+scores for the professionals tended to stay the same, as for non-
+professionals who paid more attention to the AOIs with errors.
+However, the independent-samples Mann-Whitney U-test would
+indicate that the hypothesis that the total satisfaction score of
+professionals and non-professionals has the same distribution
+(that the probability of this score being higher for a random
+professional than for a random non-professional is 0.5) cannot be
+rejected (p = 0.157).
+Besides, the subjects’ text comprehension was measured via
+a post-task reading comprehension questionnaire, consisting of
+4 questions, i.e., 2 true/false questions and 2 open questions.
+Kasper˙e et al. 10.3389/fpsyg.2023.1076379
+References
+Carl, M., Dragsted, B., Elming, J., Hardt, D., and Lykke Jakobsen, A. (2011). “The
+process of post-editing: a pilot study,” in Copenhagen Studies in Language (Frederiksberg),
+131–142.
+Carl, M., Gutermuth, S., and Hansen-Schirra, S. (2015). “Chapter post-editing machine
+translation: efficiency, strategies, and revision processes in professional translation
+settings,” in Psycholinguistic and Cognitive Inquiries Into Translation and Interpreting
+(Amsterdam: John Benjamins Publishing Company), 145–174.
+Castilho, S. (2016). Measuring acceptability of machine translated enterprise content
+(Ph.D. thesis). Dublin: Dublin City University.
+Castilho, S., and O’Brien, S. (2016). “Evaluating the impact of light post-editing on
+usability,” in Proceedings of the Tenth International Conference on Language Resources
+and Evaluation (LREC’16) (Portoroz: European Language Resources Association, ELRA),
+310–316.
+Castilho, S., O’Brien, S., Alves, F., and O’Brien, M. (2014). “Does post-editing increase
+usability? a study with Brazilian Portuguese as target language,” in Proceedings of the
+17th Annual conference of the European Association for Machine Translation (Dubrovnik:
+European Association for Machine Translation), 183–190.
+Castilho, S., and O’Brien, S. (2018). “Acceptability of machine-translated content: a
+multi-language evaluation by translators and end-users,” in Linguistica Antverpiensia,
+New Series - Themes in Translation Studies, Vol. 16 (Antwerp).
+Colman, T., Fonteyne, M., Daems, J., and Macken, L. (2021). “It’s all in the eyes: an
+eye tracking experiment to assess the readability of machine translated literature,” in 31st
+Meeting of Computational Linguistics in The Netherlands (CLIN 31), Abstracts (Ghent).
+Daems, J., Vandepitte, S., Hartsuiker, R. J., and Macken, L. (2017). Identifying the
+machine translation error types with the greatest impact on post-editing effort. Front.
+Psychol. 8, 01282. doi: 10.3389/fpsyg.2017.01282
+Doherty, S. (2016). Translations| the impact of translation technologies on the process
+and product of translation. Int. J. Commun. 10, 947–969.
+Doherty, S., and O’Brien, S. (2014). Assessing the usability of raw machine translated
+output: a user-centered study using eye tracking. Int. J. Hum. Comput. Interact. 30, 40–51.
+doi: 10.1080/10447318.2013.802199
+Fereira, A, Gries, S. T., and Schwieter, J. W. (2021). “Assessing indicators of cognitive
+effort in professional translators: A study on language dominance and directionality,” in
+Translation, interpreting, cognition: The way out of the box, ed Tra&Co Group (Berlin:
+Language Science Press), 115–143. doi: 10.5281/zenodo.4545041
+García, I. (2010). Is machine translation ready yet? Target 22, 7–21.
+doi: 10.1075/target.22.1.02gar
+Guerberof Arenas, A., Moorkens, J., and O’Brien, S. (2021). The impact of translation
+modality on user experience: an eye-tracking study of the microsoft word user interface.
+Mach. Transl. 35, 205–237. doi: 10.1007/s10590-021-09267-z
+Hoi, H. T. (2020). Machine translation and its impact in our modern society. Int. J. Sci.
+Technol. Res. 9, 1918–1921.
+Hu, K., O’Brien, S., and Kenny, D. (2020). A reception study of machine translated
+subtitles for MOOCs. Perspectives 28, 521–538. doi: 10.1080/0907676X.2019.1595069
+Jakobsen, A. L., and Jensen, K. T. H. (2008). Eye movement behaviour across four
+different types of reading task. Copenhagen Stud. Lang. 36, 103–124.
+Kasper˙e, R., Horbaˇcauskien˙e, J., Motiejunien˙e, J., Liubinien˙e, V., Patašien˙e, I.,
+and Patašius, M. (2021). Towards sustainable use of machine translation: usability
+and perceived quality from the end-user perspective. Sustainability 13, 3430.
+doi: 10.3390/su132313430
+Kasperaviˇcien˙e, R., Motiej¯unien˙e, J., and Patašien˙e, I. (2020). Quality
+assessment of machine translation output. Texto Livre 13, 271–285.
+doi: 10.35699/1983-3652.2020.24399
+Kasper˙e, R., and Motiej¯unien˙e, L. (2021). “Eye-tracking experiments in human
+acceptability of machine translation to study societal impacts,” in Sustainable
+Multilingualism 2021: The 6th International Conference, eds A. Daukšaite-Kolpakoviene
+and Ž. Tamašauskaite (June 4–5, 2021, Kaunas, Lithuania): book of abstracts (Kaunas:
+Vytautas Magnus University), 114.
+Lommel, A., Uszkoreit, H., and Burchardt, A. (2014). Multidimensional quality
+metrics (MQM): a framework for declaring and describing translation quality metrics.
+Tradumàtica tecnol. trad. 12, 455. doi: 10.5565/rev/tradumatica.77
+McConkie, G. W., and Rayner, K. (1975). The span of the effective stimulus during a
+fixation in reading. Percept. Psychophys. 17, 578–586. doi: 10.3758/BF03203972
+Moorkens, J. (2018). “Chapter Eye-Tracking as a Measure of Cognitive Effort for
+Post-Editing of Machine Translation,” in Eye Tracking and Multidisciplinary Studies on
+Translation (Amsterdam: John Benjamins Publishing Company), 55–69.
+Moorkens, J., and O’Brien, S. (2015). “Post-editing evaluations: trade-offs between
+novice and professional participants,” in Proceedings of the 18th Annual Conference of the
+European Association for Machine Translation (Antalya), 75–81.
+MQM Commitee. (2022). MQM (Multidimensional Quality Metrics): what is MQM?
+Available online at: https://themqm.org/ (accessed October 10, 2022).
+Nurminen, M., and Koponen, M. (2020). Machine translation and fair access to
+information. Transl. Spaces 9, 150–169. doi: 10.1075/ts.00025.nur
+Ortega, J., Sánchez-Martínez, F., Turchi, M., and Negri, M. (2019). “Improving
+translations by combining fuzzy-match repair with automatic post-editing,” in
+Proceedings of Machine Translation Summit XVII: Research Track (Dublin: European
+Association for Machine Translation), 256–266.
+Perrault, R., Shoham, Y., Brynjolfsson, E., Clark, J., Etchemendy, J., Grosz, B., et al.
+(2019). The ai index 2019 annual report. Technical report, Stanford: AI Index Steering
+Committee, Human-Centered AI Institute, Stanford University.
+Rayner, K. (1998). Eye movements in reading and information processing: 20 years of
+research. Psychol. Bull. 124, 372–422. doi: 10.1037/0033-2909.124.3.372
+Rivera-Trigueros, I. (2021). Machine translation systems and quality assessment: a
+systematic review. Lang. Resour. Eval. doi: 10.1007/s10579-021-09537-5
+Rossetti, A., O’Brien, S., and Cadwell, P. (2020). “Comprehension and trust in crises:
+investigating the impact of machine translation and post-editing,” in Proceedings of the
+22nd Annual Conference of the European Association for Machine Translation (Lisboa:
+European Association for Machine Translation), 9–18. Available online at: https://
+aclanthology.org/2020.eamt-1.2
+Rossi, C., and Carré, A. (2022). “How to choose a suitable neural machine translation
+solution: Evaluation of MT quality,” in Machine Translation for Everyone: Empowering
+Users in the Age of Artificial Intelligence, ed D. Kenny (Berlin: Language Science Press),
+51–79. doi: 10.5281/zenodo.6759978
+Rossi, C., and Chevrot, J.-P. (2019). Uses and perceptions of machine translation at the
+european commission. J. Special. Transl. 31, 177–200. Available online at: https://shs.hal.science/halshs-01893120/file/Rossi_and_Chevrot_article8.pdf
+Schuster, M., Johnson, M., and Thorat, N. (2016). Zero-shot Translation With Google’s
+Multilingual Neural Machine Translation System. Google AI blog. Available online at: https://ai.googleblog.com/2016/11/zero-shot-translation-with-googles.html Stasimioti, M., and Sosoni, V. (2021). “Chapter Investigating post-editing: a mixed-
+methods study with experienced and novice translators in the English-Greek language
+pair, ‘ Translation, Interpreting, Cognition: The Way Out of the Box (Berlin: Language
+Science Press).
